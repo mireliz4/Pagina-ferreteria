@@ -1,0 +1,14 @@
+.navegacion{
+font-size: 25px;
+color: navy;
+text-align: center;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-style: oblique;
+margin-top: 30px;
+}
+
+img{
+    margin: 30px;
+    height:300px; 
+    width:450px;
+}
